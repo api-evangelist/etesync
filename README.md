@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EteSync (Etebase) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://etesync.com/
+EteSync (Etebase) provides a secure, end‑to‑end encrypted synchronization service for contacts, calendars, tasks and notes across devices. It operates with a journaled, zero‑knowledge architecture, hosting servers in Austria while ensuring users never need to trust the server, emphasizing privacy as a basic right.
+
+**Areas:** Company · Security · Sync · Privacy · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://etesync.com/)
+- [Pricing](https://www.etesync.com/pricing/)
+- [Sign up](https://www.etesync.com/accounts/signup/)
+- [Blog](https://blog.etesync.com/)
+- [Terms of service](https://www.etesync.com/tos/)
+- [Privacy policy](https://blog.etesync.com/privacy-focused-mastodon-profiles-worth-following)
+- [GitHub](https://github.com/etesync)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/etesync/](https://apis.io/providers/etesync/).
